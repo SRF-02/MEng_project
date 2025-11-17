@@ -11,7 +11,7 @@ To be able to properly run the code, a Rhino licence is needed (comes with a 3-m
 Please enjoy playing around with the code and have fun with Grasshopper!!
 
 <details>
-  <summary>## Click to view more</summary>
+  <Heading>Click to view more</Heading>
   
   ## Additional Information
 
